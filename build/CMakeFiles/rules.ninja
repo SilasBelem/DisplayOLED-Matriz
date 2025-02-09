@@ -93,7 +93,7 @@ rule ASM_COMPILER__bs2_default_library_unscanned_Release
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\User\.pico-sdk\cmake\v3.29.9\bin\cmake.exe --regenerate-during-build -SC:\Users\User\Downloads\Display-com-matriz-leds\Display-com-matriz-leds -BC:\Users\User\Downloads\Display-com-matriz-leds\Display-com-matriz-leds\build
+  command = C:\Users\User\.pico-sdk\cmake\v3.29.9\bin\cmake.exe --regenerate-during-build -SC:\Users\User\Downloads\DisplayOLED-Matriz -BC:\Users\User\Downloads\DisplayOLED-Matriz\build
   description = Re-running CMake...
   generator = 1
 

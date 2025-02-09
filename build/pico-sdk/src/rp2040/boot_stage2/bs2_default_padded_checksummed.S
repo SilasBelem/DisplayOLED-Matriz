@@ -1,4 +1,4 @@
-// Padded and checksummed version of: C:/Users/User/Downloads/Display-com-matriz-leds/Display-com-matriz-leds/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: C:/Users/User/Downloads/DisplayOLED-Matriz/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb
